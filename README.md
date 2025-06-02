@@ -4,6 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+Architect;Automation+Specialist" alt="Typing animation" />
 </p>
 
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="AWS" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />
+</p>
+
 <p>I'm a passionate DevOps Engineer and Cloud Specialist with expertise in building scalable infrastructure and automating workflows. I love working with cutting-edge technologies to create efficient systems.</p>
 
 
@@ -11,12 +18,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=200&section=header&text=AHMED%20SALIM&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="AWS" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />
-</p>
+
 
 ## 📊 GitHub Stats
 <p align="center">
