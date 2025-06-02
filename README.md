@@ -6,6 +6,11 @@
 
 <p>I'm a passionate DevOps Engineer and Cloud Specialist with expertise in building scalable infrastructure and automating workflows. I love working with cutting-edge technologies to create efficient systems.</p>
 
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ahmed7100&show_icons=true&theme=vision-friendly-dark&bg_color=0d1117&title_color=00ffff&text_color=ffffff&icon_color=00ffff&border_color=00ffff&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed7100&layout=compact&theme=vision-friendly-dark&bg_color=0d1117&title_color=00ffff&text_color=ffffff&border_color=00ffff&hide_border=true&langs_count=6"/>
+</div>
+
 ## 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmed7100&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&title_color=00ffff&text_color=ffffff&icon_color=00ffff" />
