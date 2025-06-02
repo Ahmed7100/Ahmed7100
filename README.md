@@ -1,7 +1,7 @@
 # 𝙃𝙚𝙡𝙡𝙤 𝙄'𝙢 𝘼𝙝𝙢𝙚𝙙 𝙎𝙖𝙡𝙞𝙢! 👨‍💻
 
 **DevOps Engineer | Cloud Architect | Automation Specialist**
-I'm a passionate DevOps Engineer and Cloud Specialist with expertise in building scalable infrastructure and automating workflows. I love working with cutting-edge technologies to create efficient systems.
+<p>I'm a passionate DevOps Engineer and Cloud Specialist with expertise in building scalable infrastructure and automating workflows. I love working with cutting-edge technologies to create efficient systems.</p>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -78,7 +78,7 @@ I'm a passionate DevOps Engineer and Cloud Specialist with expertise in building
 ---
 
 <p align="center">
-  <img src="https://github.com/ahmed7100/ahmed7100/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ahmed7100/ahmed7100/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 <p align="center"> 
