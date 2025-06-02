@@ -14,9 +14,15 @@
 <p>I'm a passionate DevOps Engineer and Cloud Specialist with expertise in building scalable infrastructure and automating workflows. I love working with cutting-edge technologies to create efficient systems.</p>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=200&section=header&text=AHMED%20SALIM&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+```python
+# DevOps Skills
+def skill_bar(skill, level):
+    return f"![{skill}](https://progress-bar.dev/{level}/?title={skill}&color=00ffff)"
+    
+print(skill_bar("AWS", 85))
+print(skill_bar("Kubernetes", 80))
+print(skill_bar("Terraform", 75))
+print(skill_bar("Python", 90))
 
 
 
