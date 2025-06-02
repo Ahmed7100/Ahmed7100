@@ -9,19 +9,6 @@
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes" />
 
-<style>
-  .dark-mode-only { display: none; }
-  [data-theme="dark"] .dark-mode-only,
-  [data-theme="dark_dimmed"] .dark-mode-only,
-  .dark .dark-mode-only { display: block; }
-  
-  /* Force dark backgrounds */
-  body {
-    background-color: #0d1117 !important;
-    color: #c9d1d9 !important;
-  }
-</style>
-
 ## 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmed7100&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&title_color=00ffff&text_color=ffffff&icon_color=00ffff" />
