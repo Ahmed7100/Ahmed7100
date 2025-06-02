@@ -15,6 +15,27 @@
   <img src="https://techstack-generator.vercel.app/bash-icon.svg" width="50" height="50" alt="Bash" />
 </p>
 
+<p align="center">
+  <a href="https://cloud.google.com">
+    <img src="https://animated-tech-stack.vercel.app/api/card?title=GCP&logo=googlecloud&color=4285F4&animation=float" width="120" />
+  </a>
+  <a href="https://azure.microsoft.com">
+    <img src="https://animated-tech-stack.vercel.app/api/card?title=Azure&logo=microsoftazure&color=0078D4&animation=shake" width="120" />
+  </a>
+  <a href="https://terraform.io">
+    <img src="https://animated-tech-stack.vercel.app/api/card?title=Terraform&logo=terraform&color=7B42BC&animation=pulse" width="120" />
+  </a>
+  <a href="https://ansible.com">
+    <img src="https://animated-tech-stack.vercel.app/api/card?title=Ansible&logo=ansible&color=EE0000&animation=spin" width="120" />
+  </a>
+  <a href="https://argoproj.github.io">
+    <img src="https://animated-tech-stack.vercel.app/api/card?title=ArgoCD&logo=argo&color=EF7B4D&animation=float" width="120" />
+  </a>
+  <a href="https://prometheus.io">
+    <img src="https://animated-tech-stack.vercel.app/api/card?title=Prometheus&logo=prometheus&color=E6522C&animation=shake" width="120" />
+  </a>
+</p>
+
 ## 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmed7100&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&title_color=00ffff&text_color=ffffff&icon_color=00ffff" />
