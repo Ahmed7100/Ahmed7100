@@ -8,8 +8,9 @@
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="AWS" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes" />
- <img src="https://techstack-generator.vercel.app/ansible-icon.svg" width="50" height="50" alt="Ansible" />
+  <img src="https://techstack-generator.vercel.app/ansible-icon.svg" width="50" height="50" alt="Ansible" />
   <img src="https://techstack-generator.vercel.app/argocd-icon.svg" width="50" height="50" alt="ArgoCD" />
+</p>
 
 
 ## 📊 GitHub Stats
