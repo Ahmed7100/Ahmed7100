@@ -5,8 +5,22 @@
 </p>
 
 <p>I'm a passionate DevOps Engineer and Cloud Specialist with expertise in building scalable infrastructure and automating workflows. I love working with cutting-edge technologies to create efficient systems.</p>
+
+![Digital Clock](https://github-readme-digital-clock.vercel.app/clock?background=0D1117&color=00ffff&border=00ffff)
+
 <p align="center">
-  <img src="https://github-profile-3d-card.vercel.app/api?username=ahmed7100&theme=radical&border=00ffff&radius=10&animation=spin">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=200&section=header&text=AHMED%20SALIM&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+[![Particle Animation](https://github-readme-particle-animation.vercel.app/api?username=ahmed7100&theme=dark&background=0D1117&duration=3000&delay=1000)](https://github.com/ahmed7100)
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/yourprofile" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
 </p>
 
 ## 📊 GitHub Stats
