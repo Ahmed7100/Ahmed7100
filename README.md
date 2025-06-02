@@ -30,3 +30,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+![GitHub Snake Light](https://github.com/ahmed7100/ahmed7100/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/ahmed7100/ahmed7100/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
