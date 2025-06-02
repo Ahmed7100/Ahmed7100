@@ -8,23 +8,14 @@
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="AWS" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />
+  <img src="https://techstack-generator.vercel.app/terraform-icon.svg" width="50" height="50" alt="terraform" />
+  <img src="https://techstack-generator.vercel.app/argocd-icon.svg" width="50" height="50" alt="argocd" />
+  <img src="https://techstack-generator.vercel.app/ansible-icon.svg" width="50" height="50" alt="ansible" />
+  <img src="https://techstack-generator.vercel.app/prometheus-icon.svg" width="50" height="50" alt="prometheus" />
+  <img src="https://techstack-generator.vercel.app/bash-icon.svg" width="50" height="50" alt="bash" />
 </p>
 
 <p>I'm a passionate DevOps Engineer and Cloud Specialist with expertise in building scalable infrastructure and automating workflows. I love working with cutting-edge technologies to create efficient systems.</p>
-
-
-```python
-# DevOps Skills
-def skill_bar(skill, level):
-    return f"![{skill}](https://progress-bar.dev/{level}/?title={skill}&color=00ffff)"
-    
-print(skill_bar("AWS", 85))
-print(skill_bar("Kubernetes", 80))
-print(skill_bar("Terraform", 75))
-print(skill_bar("Python", 90))
-
-
 
 ## 📊 GitHub Stats
 <p align="center">
