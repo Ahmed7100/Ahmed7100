@@ -8,14 +8,12 @@
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="AWS" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes" />
-  <img src="https://techstack-generator.vercel.app/terraform-icon.svg" width="50" height="50" alt="terraform" />
-  <img src="https://techstack-generator.vercel.app/argocd-icon.svg" width="50" height="50" alt="argocd" />
-  <img src="https://techstack-generator.vercel.app/ansible-icon.svg" width="50" height="50" alt="ansible" />
-  <img src="https://techstack-generator.vercel.app/prometheus-icon.svg" width="50" height="50" alt="prometheus" />
-  <img src="https://techstack-generator.vercel.app/bash-icon.svg" width="50" height="50" alt="bash" />
+  <img src="https://techstack-generator.vercel.app/terraform-icon.svg" width="50" height="50" alt="Terraform" />
+  <img src="https://techstack-generator.vercel.app/argocd-icon.svg" width="50" height="50" alt="Argocd" />
+  <img src="https://techstack-generator.vercel.app/ansible-icon.svg" width="50" height="50" alt="Ansible" />
+  <img src="https://techstack-generator.vercel.app/prometheus-icon.svg" width="50" height="50" alt="Prometheus" />
+  <img src="https://techstack-generator.vercel.app/bash-icon.svg" width="50" height="50" alt="Bash" />
 </p>
-
-<p>I'm a passionate DevOps Engineer and Cloud Specialist with expertise in building scalable infrastructure and automating workflows. I love working with cutting-edge technologies to create efficient systems.</p>
 
 ## 📊 GitHub Stats
 <p align="center">
