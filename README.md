@@ -1,12 +1,13 @@
 # 𝙃𝙚𝙡𝙡𝙤 𝙄'𝙢 𝘼𝙝𝙢𝙚𝙙 𝙎𝙖𝙡𝙞𝙢! 👨‍💻
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+Architect;Automation+Specialist" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+Architect;Automation+Specialist" alt="Typing animation" />
 </p>
 
 <p>I'm a passionate DevOps Engineer and Cloud Specialist with expertise in building scalable infrastructure and automating workflows. I love working with cutting-edge technologies to create efficient systems.</p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FFFF&width=500&lines=DevOps+Engineer;Cloud+Architect;Automation+Specialist;AI+Enthusiast)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://github-profile-3d-card.vercel.app/api?username=ahmed7100&theme=radical&border=00ffff&radius=10&animation=spin">
+</p>
 
 ## 📊 GitHub Stats
 <p align="center">
