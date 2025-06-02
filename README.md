@@ -8,33 +8,9 @@
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="AWS" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes" />
-  <img src="https://techstack-generator.vercel.app/terraform-icon.svg" width="50" height="50" alt="Terraform" />
-  <img src="https://techstack-generator.vercel.app/argocd-icon.svg" width="50" height="50" alt="Argocd" />
-  <img src="https://techstack-generator.vercel.app/ansible-icon.svg" width="50" height="50" alt="Ansible" />
-  <img src="https://techstack-generator.vercel.app/prometheus-icon.svg" width="50" height="50" alt="Prometheus" />
-  <img src="https://techstack-generator.vercel.app/bash-icon.svg" width="50" height="50" alt="Bash" />
-</p>
+ <img src="https://techstack-generator.vercel.app/ansible-icon.svg" width="50" height="50" alt="Ansible" style="animation: pulse 1.5s ease infinite" />
+  <img src="https://techstack-generator.vercel.app/argocd-icon.svg" width="50" height="50" alt="ArgoCD" style="animation: float 3s ease-in-out infinite" />
 
-<p align="center">
-  <a href="https://cloud.google.com">
-    <img src="https://animated-tech-stack.vercel.app/api/card?title=GCP&logo=googlecloud&color=4285F4&animation=float" width="120" />
-  </a>
-  <a href="https://azure.microsoft.com">
-    <img src="https://animated-tech-stack.vercel.app/api/card?title=Azure&logo=microsoftazure&color=0078D4&animation=shake" width="120" />
-  </a>
-  <a href="https://terraform.io">
-    <img src="https://animated-tech-stack.vercel.app/api/card?title=Terraform&logo=terraform&color=7B42BC&animation=pulse" width="120" />
-  </a>
-  <a href="https://ansible.com">
-    <img src="https://animated-tech-stack.vercel.app/api/card?title=Ansible&logo=ansible&color=EE0000&animation=spin" width="120" />
-  </a>
-  <a href="https://argoproj.github.io">
-    <img src="https://animated-tech-stack.vercel.app/api/card?title=ArgoCD&logo=argo&color=EF7B4D&animation=float" width="120" />
-  </a>
-  <a href="https://prometheus.io">
-    <img src="https://animated-tech-stack.vercel.app/api/card?title=Prometheus&logo=prometheus&color=E6522C&animation=shake" width="120" />
-  </a>
-</p>
 
 ## 📊 GitHub Stats
 <p align="center">
