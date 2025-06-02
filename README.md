@@ -78,6 +78,16 @@
   </a>
 </p>
 
+### 🌟 **About Me**  
+<p align="left">
+  <img src="https://github.com/ahmed7100/ahmed7100/blob/main/assets/wave.gif?raw=true" width="30px" alt="Wave animation">  
+  Passionate DevOps Engineer with expertise in:  
+  - ☁️ Cloud-native architectures (AWS/GCP/Azure)  
+  - 🛠️ Infrastructure as Code (Terraform, Ansible)  
+  - 🔄 CI/CD pipelines (ArgoCD, GitHub Actions)  
+  - 📊 Monitoring (Prometheus, Grafana)  
+</p>
+
 ## 🌟 Visitor Count
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ahmed7100.ahmed7100)
 
