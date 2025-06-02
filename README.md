@@ -6,12 +6,7 @@
 
 <p>I'm a passionate DevOps Engineer and Cloud Specialist with expertise in building scalable infrastructure and automating workflows. I love working with cutting-edge technologies to create efficient systems.</p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmed7100/ahmed7100/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ahmed7100/ahmed7100/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FFFF&width=500&lines=DevOps+Engineer;Cloud+Architect;Automation+Specialist;AI+Enthusiast)](https://git.io/typing-svg)
 
 ## 📊 GitHub Stats
 <p align="center">
