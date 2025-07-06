@@ -22,7 +22,7 @@
 ## 🚀 Featured Projects
 
 ### [Infrastructure Automation Toolkit](https://github.com/ahmed7100/infra-automation)
-🚀 Terraform modules and Ansible playbooks for AWS/GCP infrastructure provisioning
+🚀 End-to-End DevOps Kubernetes Three-Tier Project using AWS EKS, Docker, ArgoCD, Prometheus, Grafana, and Github Actions.
 
 ![Project Screenshot](https://via.placeholder.com/400x200/000000/00ffff?text=Infra+Automation)
 
